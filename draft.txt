@@ -1,0 +1,12 @@
+
+
+
+
+rating_id	user_id	movie_id	rating	timestamp
+
+user_id	name	age	country
+
+id title genre release_year
+
+
+new_table => user_name , user_age , user_county , movie_title , movie_genre , rating , date_of_rate , time_of_rate 
